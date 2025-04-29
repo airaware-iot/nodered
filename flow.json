@@ -32,7 +32,7 @@
     "method": "POST",
     "ret": "txt",
     "paytoqs": "ignore",
-    "url": "localhost:8001/api/v1/data",
+    "url": "localhost/api/v1/data",
     "tls": "",
     "persist": false,
     "proxy": "",
